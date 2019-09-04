@@ -1,0 +1,10 @@
+C1.Win.C1Input.C1TextBox, C1.Win.C1Input, Version=1.0.20031.0, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a
+C1.Win.C1Chart3D.C1Chart3D, C1.Win.C1Chart3D, Version=1.0.20043.14175, Culture=neutral, PublicKeyToken=a22e16972c085838
+C1.Win.C1List.C1Combo, C1.Win.C1List, Version=1.1.20034.25, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc
+C1.Win.C1Chart.C1Chart, C1.Win.C1Chart, Version=1.0.20043.14175, Culture=neutral, PublicKeyToken=a22e16972c085838
+C1.Win.C1List.C1List, C1.Win.C1List, Version=1.1.20034.25, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc
+C1.Win.C1PrintPreview.C1PrintPreview, C1.Win.C1PrintPreview, Version=1.0.20034.102, Culture=neutral, PublicKeyToken=3af768410ba0a64f
+C1.Win.C1Command.C1CommandHolder, C1.Win.C1Command, Version=1.0.20023.1, Culture=neutral, PublicKeyToken=e808566f358766d8
+C1.Win.C1FlexGrid.C1FlexGrid, C1.Win.C1FlexGrid, Version=2.1.20031.104, Culture=neutral, PublicKeyToken=c9c7ad9c0a5706c9
+C1.C1PrintDocument.C1PrintDocument, C1.C1PrintDocument, Version=1.0.20034.102, Culture=neutral, PublicKeyToken=1a6f4158ebe6d3b8
+C1.Win.C1Input.C1Label, C1.Win.C1Input, Version=1.0.20031.0, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a

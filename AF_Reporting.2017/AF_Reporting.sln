@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AF_Reporting", "AF_Reporting.vbproj", "{9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContainerReporting", "ContainerReporting\ContainerReporting.vbproj", "{11CA2926-454C-4A9C-BBDD-ECE366E14C8E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7} = {9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{661385D9-425B-4D5D-AF79-DDDCF3F41FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9270DCF9-4D06-4E7D-8D34-55BF3EFA82F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CA2926-454C-4A9C-BBDD-ECE366E14C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CA2926-454C-4A9C-BBDD-ECE366E14C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CA2926-454C-4A9C-BBDD-ECE366E14C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CA2926-454C-4A9C-BBDD-ECE366E14C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
